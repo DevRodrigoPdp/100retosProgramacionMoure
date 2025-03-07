@@ -9,13 +9,13 @@
 const nombre = "Rodrigo"
 let edad = "25"
 
-string ="Rodrigo Puerta Del Pozo"
-boolean ="true"
-number = '25'
-undefined = "undefined"
-null = "null"
-BigInt = "23432424"
-Symbol = ""
+let nombreCompleto ="Rodrigo Puerta Del Pozo" //String
+let esMayor ="true" //boolean
+let temperatura = 25 //number
+let valor //undefined
+let resultado ="null" //null
+let BigInt = 9007199254740991n;// BigInt
+
 
 console.log("¡Hola , Javascript!")
 
